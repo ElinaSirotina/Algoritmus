@@ -26,7 +26,7 @@ public class Main {
             return b * b;
         }
     }
-    
+
     public static int[] merge(int[] a, int[] b) {
         int[] result = new int[a.length + b.length];
         int aIndex = 0;
